@@ -1,0 +1,113 @@
+.create{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(134, 224, 224);
+    color: white; 
+    font-weight: bolder;
+     border-radius: 50px;
+     box-shadow: 2px 2px gray; 
+}
+.create a{
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: black;
+    
+}
+.out-of-stock{
+    display: flex;
+    justify-content: space-between;
+}
+.table-list{
+    margin-top: 25px;
+    margin-left: 25px;   
+    text-align: center;
+}
+.name-colums th{
+    width: 340px;
+    font-size: 20px;
+    background-color: #093759;
+    color: white; 
+    font-weight: bolder;
+    
+}
+.name-colums th:nth-child(3){
+    padding-right: 0px;
+}
+.row-display{ 
+    margin: 0 auto;
+}
+.delete, .update,.completed-button{
+    width: 100px;
+    height: 40px;
+    border-radius: 50px; 
+    box-shadow: 2px 2px gray; 
+    color: white;
+    font-weight: bold;
+   
+}
+.product-admin{
+    margin-top: 130px;
+}
+.delete{
+    background-color: coral;
+}
+
+.update{
+    background-color: rgb(59, 224, 172);
+}
+.delete:hover{
+    background-color: white;
+    color: coral;
+}
+.update:hover{
+    background-color: crimson; 
+    color: black;
+}
+.create:hover{ 
+    background: crimson;
+    color: white;
+ }
+ .button-seemore{
+     margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+ }
+ .back-button{ 
+    width: 100px;
+    height: 50px;
+    border-radius: 50px; 
+    box-shadow: 2px 2px gray; 
+    color: white;
+    font-weight: bold;
+    background-color: aquamarine; 
+    color: black;
+    
+}
+
+.back-button:hover{ 
+    background-color: crimson; 
+    color: azure;
+}
+.back-button{
+    margin-bottom: 25px;
+}
+.completed-button{
+    background-color: #FF9900;
+   
+}
+.completed-button:hover{
+    background-color:white;
+    color:  #FF9900
+    
+}
+.notice{
+    margin-bottom: 40px;
+}

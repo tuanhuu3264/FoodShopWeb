@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/searchServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/checkboxhome1Servlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/ListNameCateServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/css/index.css</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/detailProductServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/detailItem.jsp</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/statusUser.jsp</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/logoutServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/DAO/ItemsDAO.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/pagingServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/index.jsp</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/inforAccountServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/updateServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/DAO/RatingDAO.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/cartItem.jsp</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/status/cancelItemServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/RatingInsertServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/UpdateAccountServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/updateAccount.jsp</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/paging.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/web/sidebar.jsp</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/controller/ListCatogoriesServlet.java</file>
+            <file>file:/C:/Users/Tuan/Desktop/ass_1_search_paging_1_comment_rating_deleted_status/src/java/DAO/dishes/top4DAO.java</file>
+        </group>
+    </open-files>
+</project-private>

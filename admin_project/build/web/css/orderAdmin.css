@@ -1,0 +1,144 @@
+.backToProduct{
+    padding: 18px;
+    background-color: rgb(164, 234, 234);
+    width: 55px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;   
+    border-radius: 10px;
+}
+.backToProduct a i{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.out-of-stock{
+    display: flex;
+    justify-content: space-between;
+}
+.info-user{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin-left: 20px;
+    border: 2px solid rgb(43, 44, 44);
+    width: 690px;
+    padding-left: 10px;
+    border-radius: 20px;
+    background-color: rgb(229, 232, 236);
+    margin-bottom: 50px;
+}
+.order-tracking{
+    margin-top: 120px;
+    margin-left: 10px;
+}
+.item-list{
+    text-align: center;
+    align-items: center;
+}
+.table-list{
+    margin-top: 25px;
+    margin-left: 25px; 
+    text-align: center;
+    align-items: center;
+}
+.table-list{
+    text-align: center;
+    align-items: center;
+}
+.name-colums th{
+    font-size: 20px;
+}
+.name-colums th:nth-child(5){
+    width: 650px;
+}
+.name-colums th:nth-child(6){
+    width: 550px;
+}
+.total-price{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.accept-button{
+    width: 100px;
+    height: 40px;
+    border-radius: 50px; 
+    box-shadow: 2px 2px gray; 
+    color: white;
+    font-weight: bold;
+    background-color: #3366CC; 
+    margin-bottom: 5px;
+    margin-top: 10px
+}
+.accept-button:hover{ 
+    background-color: white; 
+    color:#3366CC; 
+}
+.status{
+    width: 120px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+   justify-content: center;
+   font-weight: bold;
+    font-size: 140%;
+}
+.status-pending
+{
+    background-color: #3366CC; 
+    color: white;
+
+}
+.status-cancel{
+    background-color: red;
+    color: white;
+}
+.status-proccessing{
+    background-color: #FF9900;
+    color: white;
+}
+.status-completed{
+    background-color:#00CC00;
+    color: white;
+    
+}
+.row-table{
+    border: 1px solid black; 
+    
+}
+.notice{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   font-weight: bold;
+    font-size: 160%;
+}
+.noctice-completed{ 
+    background-color:#00CC00;
+    color: white; 
+}
+.noctice-pending
+{
+    background-color: #3366CC; 
+    color: white;
+
+}
+.noctice-cancel{
+    background-color: red;
+    color: white;
+}
+.noctice-proccessing{
+    background-color: #FF9900;
+    color: white;
+}
+.see-more{
+    margin-top: 120px;
+}

@@ -1,0 +1,33 @@
+.header__navbar-user-menu{
+    position: absolute;
+    padding: 8px 0;
+    top: calc(100%-50px);
+    list-style: none;
+    background-color: #fafafa;
+    width: 160px;
+    right: 130px;
+    font-size: 13px;
+    white-space: nowrap;
+    border-radius: 2px;
+    z-index: 1;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.header__navber-user-item a {
+    text-decoration: none;
+    color: #666;
+    font-size: 1rem;
+    padding: 0 16px;
+    line-height: 35px;
+    color: crimson;
+}
+.header__navber-user-item:hover{
+    background-color: #eae3e3;
+}
+.header__navbar-item .header__navbar-user-menu {
+    display: none; /* Hide the user menu by default */
+  }
+  
+  .header__navbar-item:hover .header__navbar-user-menu {
+    display: block; /* Display the user menu when hovering over the navbar item */
+  }

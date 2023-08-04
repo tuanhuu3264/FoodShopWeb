@@ -1,0 +1,165 @@
+.taste-header{
+    margin: auto 0;
+   margin-bottom: 40px;
+}
+.util{
+    margin: auto 0;
+    margin-left: 100px;
+}
+.home{
+    margin-left: 230px;
+}
+.status{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.status div{
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+}
+.status form i button{
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: rgb(33, 32, 31);
+    font-size: 20px;
+    white-space: nowrap;
+}
+.status form i button:hover{
+    background-color: #ffbf00; 
+}
+.status form i{
+     margin-left: 10px;
+    font-size: 25px;
+}
+
+.btn4{
+    margin-right: 10px;
+}
+.information{
+    padding-top: 20px;
+    font-size: 22px;
+    margin-bottom: 20px;
+    color:#ff6a00;
+}
+.information-order{
+    margin-left: 150px;
+}
+.order, .account{
+    font-size: 18px; 
+    text-decoration: none;
+    
+}
+#order, #account{
+    margin-bottom: 25px;
+}
+
+
+.container-body{
+    background-color: #00fffc14;;
+    display: flex;
+   
+}
+.part2{
+    padding-bottom: 25px;
+    width: 2222px;
+    margin-right: 50px;
+    padding-top: 25px;
+    margin-top: 50px;
+    background-color: rgb(115 200 234);
+    border-radius: 20px;
+    color: #100f0f;
+    margin-bottom: 50px;
+}
+.table-user {
+    width: 100%;
+    border-collapse: collapse;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    
+  }
+  .table-order{
+      border-radius: 20px;
+  }
+  .table-order p{
+      position: absolute;
+    right: 100px;
+    margin-top: -50px;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  .table-user thead td {
+    font-weight: bold;
+    padding: 10px;
+    background-color: #f2f2f2;
+    font-size: 23px;
+  }
+  
+  .table-user tbody td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    
+  }
+  
+  .table-user tbody td:first-child {
+    text-align: center;
+  }
+  
+  .table-user tbody td:nth-child(2),
+  .table-user tbody td:nth-child(4) {
+    text-align: center;
+  }
+  
+  .table-user .remove-link {
+    color: red;
+    text-decoration: none;
+  }
+  
+  .table-user .remove-link:hover {
+    text-decoration: underline;
+  }
+  .hinhanh{
+      width: 100px;
+      height: 100px;
+  }
+  #table-body tr td{
+      color: #100f0f;
+      font-size: 23px;
+  }
+ 
+ .highlight {
+        background-color: yellow;
+    }
+    .status-a{
+        text-decoration: none;
+        color: #100f0f;
+    font-size: 23px;
+    }
+    .cancel{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f7ff00;
+    font-size: 15px;
+    }
+    .cancel:hover{
+       background-color: #ffbf00;
+        color: #100f0f;
+    }
+    .buynow1{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f7ff00;
+    }
+    .buynow1:hover{
+        background-color: #ffbf00;
+        
+    }
+    .status-a{
+        text-decoration: none;
+        color: black;
+    }

@@ -1,0 +1,137 @@
+.card{
+    border: 1px solid salmon;
+    margin-top: 20px;
+    height: auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    align-items: center;
+    text-align: center;
+    width: 99%;
+    margin-bottom: 20px;
+    
+}
+.card-header{
+    background-color: cadetblue;
+    height: 50px;
+    padding-top: 7px ;
+    padding-bottom: 8px;
+    padding-left: 58px;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: 'Pangolin', cursive;
+}
+.card-body{
+    border-bottom: 1px solid crimson;
+}
+.card-body img{
+    width: 200px;
+    margin-top: 19px;
+    margin-left: 19px;
+    
+}
+.card-body img:hover{
+    transform: scale(1.1);
+    transition: 0.5s all ease-in-out;
+}
+.card-title{
+    font-size: 25px;
+    padding-left: 20px;
+    margin-top: 10px;
+    font-family: 'Pangolin', cursive;
+    font-family: 'Roboto Mono', monospace;
+}
+.card-text{
+    font-family: 'Pangolin', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ysabeau', sans-serif;
+    padding: 10px 10px;
+}
+.bloc_left_price{
+    font-size: 35px;
+    font-family: 'Pangolin', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Ysabeau', sans-serif;
+    padding-left: 90px;
+}
+.price-quantity{
+    display: flex;
+    margin-top: 10px;
+}
+#item-quantity{
+    margin: 0;
+    color: rgb(185, 25, 25);
+    font-weight: 500;
+    font-size: 17px;
+    margin-left: 5px;
+}
+.line{
+    height: 18px;
+    width: 1px;
+    background-color: brown;
+    margin-left: 2px;
+}
+#item-card1{
+    width: 250px;
+    height: 350px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 23px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: rgb(235, 235, 226);
+    cursor: pointer;
+    transition: 0.5s all ease-in-out;
+    border: 1px solid rgb(78, 189, 217);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+#item-card1 img{
+    width: 220px;
+    height: 180px;  
+    margin: auto;
+    display: block;
+    margin-bottom: 15px;
+    transition: 0.5s all ease-in-out;
+}
+#item-card1:hover img{
+    transform: scale(1.1);
+}
+#item-name1{
+    margin: 5px 5px;
+    font-weight: 600;
+    color: darkslategray;
+    font-size: 20px;
+}
+#item-name1 a{
+    text-decoration: none;
+    color: black;
+}
+#item-price1{
+    margin: 0;
+    color: rgb(2,27,27);
+    font-weight: 500;
+    font-size: 19px;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+.price-quantity1{
+
+    margin-bottom: 20px;
+}
+.addToCard1{
+    width: 300px;   
+    padding: 15px 60px;
+    font-size: 15px;
+    border: none;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: rgb(227, 138, 82);
+    color: whitesmoke;
+    text-decoration: none;
+}
+.addToCard1:hover{
+    background-color: whitesmoke;
+    cursor: pointer;
+    color: black;
+}

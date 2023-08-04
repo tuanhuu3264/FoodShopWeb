@@ -1,0 +1,56 @@
+
+.list-Account{
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+.out-of-stock{
+    display: flex;
+    justify-content: space-between;
+}
+.table-list{
+    padding-left: 20px;
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+}
+.table-list tbody tr td{
+    margin-bottom: 15px;
+}
+.name-colums th{
+    font-size: 20px;
+    color: white;
+    background-color: #093759
+}
+
+.delete, .update{
+        padding: 12px;
+    padding-bottom: 20px;
+   
+}
+.delete{
+    height: 5px;
+    border-radius: 20px;
+}
+.delete:hover{
+    background: aquamarine;
+    
+}
+.delete a{
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+.delete{
+    background-color: coral;
+    
+}
+.delete a{
+    color: black;
+    font-weight: 600;
+}
+
+

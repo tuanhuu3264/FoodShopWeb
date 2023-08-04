@@ -1,0 +1,151 @@
+
+body{
+    margin: 0;
+    padding: 0; 
+    background-image: url(images/pexels-ella-olsson-1640777.jpg) ;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+    height: 100%;
+}
+form.register {
+    width: 480px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.logo{
+    width: 170px;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -20px;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+}
+/* Style the form container */
+form.register .inside-register {
+    padding: 20px;
+    background-color: antiquewhite;
+    height: 100%;
+    border-radius: 10px;
+}
+
+/* Style the form title */
+form.register .title {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: -50px;
+}
+
+form.register .title h3 {
+    font-size: 35px;
+    color: #333;
+}
+
+/* Style the main input fields */
+form.register .main-input label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+    
+}
+.main-input{
+    margin-top: -20px;
+}
+.main-input div{
+    margin-bottom: 8px;
+}
+.main-input input:hover{
+    background-color: rgb(143, 234, 234);
+}
+form.register .main-input input[type="text"],
+form.register .main-input input[type="password"],
+form.register .main-input input[type="email"] {
+    width: 95%;
+    padding: 13px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form.register .gender {
+    margin-bottom: 10px;
+}
+
+form.register .gender label {
+    margin-right: 10px;
+}
+
+/* Style the signup button */
+form.register .signup button {
+    width: 101%;
+    padding: 11px 0;
+    border: none;
+    background-color: rgb(237, 141, 130);
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.signup button i{
+    font-size: 17px;
+}
+.signup button:hover{
+    background-color: aqua;
+}
+#province, #district, #ward{
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+form.register .signup button i {
+    margin-right: 5px;
+    color: black;
+}
+
+/* Style the back button */
+form.register .backToLogin {
+    text-align: center;
+    margin-top: 10px;
+    color: #333;
+    border: 1px solid salmon;
+    padding: 10px 15px;
+    width: fit-content;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: rgb(213, 115, 134);
+    
+}
+
+form.register .backToLogin i {
+    margin-right: 5px;
+    color: white;
+}
+
+form.register .backToLogin a {
+    color: white;
+    text-decoration: none;
+}
+.Update{
+        background-color: rgb(213, 115, 134);
+    
+    border: none;
+    border-radius: 5px;
+}
+.backToLogin:hover{
+    background: background;
+    color: black;
+}
