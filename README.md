@@ -4,7 +4,6 @@
 
 - Trinh Huu Tuan
 - Nguyen Ngoc Tuan
-- Chau Tan Phuoc
 
 ## Website Name
 
@@ -274,7 +273,7 @@ Controller: Handles user requests, coordinates the flow of the application. It i
 - The interface design could be improved.
 - Elimated the functions.
 - We have a few advanced functions.
-**What we learned during application development:**
+- **What we learned during application development:**
 
 - Huu Tuan: I learned the basics of backend development and using GitHub. Additionally, I gained experience in working with a team, managing time, organizing group work, and designing a web system. This small exercise contributed to my overall development, and I appreciate the support of my teammates and teachers.
 
